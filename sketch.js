@@ -37,7 +37,7 @@ function draw () {
 
     drawSprites();
 
-    if(foodStock <= 20){
+    if(foodStock <= 1000000){
 
       textFont("Georgia");
       textSize(40);
